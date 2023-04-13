@@ -1,0 +1,11 @@
+{
+  "profiles": {
+    "ComputerVision4-Preview": {
+      "commandName": "Project",
+      "environmentVariables": {
+        "COMPUTER_VISION_SUBSCRIPTION_KEY": "84ab4695d168418a853bb2bbfff24da2",
+        "COMPUTER_VISION_ENDPOINT": "https://computervisionflorencedemos.cognitiveservices.azure.com/"
+      }
+    }
+  }
+}
