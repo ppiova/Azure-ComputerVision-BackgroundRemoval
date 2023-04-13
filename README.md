@@ -27,6 +27,15 @@ This repository contains a C# program that uses the Azure Computer Vision API to
 - `ProcessImageAsync()`: An async function that sends an image to the Azure Computer Vision API and saves the processed image to the specified output folder.
 - `IsValidImage()`: A helper function that checks if a file is a valid JPEG or PNG image using the `System.Drawing.Image` class.
 
+## 
+![Example image](https://github.com/ppiova/Azure-ComputerVision-BackgroundRemoval/blob/main/readmeImages/CSharpCode.png "Code")
+![Example image](https://github.com/ppiova/Azure-ComputerVision-BackgroundRemoval/blob/main/readmeImages/FolderInPut.png "FolderInput")
+![Example image](https://github.com/ppiova/Azure-ComputerVision-BackgroundRemoval/blob/main/readmeImages/Console-Result.png "Console")
+![Example image](https://github.com/ppiova/Azure-ComputerVision-BackgroundRemoval/blob/main/readmeImages/FolderOutPut.png "FolderOutput")
+
+## Official Microsoft Learn Documentation
+Link: https://bit.ly/computervisionbackgroundremoval
+
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
