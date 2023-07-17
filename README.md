@@ -33,8 +33,12 @@ This repository contains a C# program that uses the Azure Computer Vision API to
 ![Example image](https://github.com/ppiova/Azure-ComputerVision-BackgroundRemoval/blob/main/readmeImages/Console-Result.png "Console")
 ![Example image](https://github.com/ppiova/Azure-ComputerVision-BackgroundRemoval/blob/main/readmeImages/FolderOutPut.png "FolderOutput")
 
-## Official Microsoft Learn Documentation
-Link: https://bit.ly/computervisionbackgroundremoval
+## Additional Documentation to learn more 📚
+
+To learn more about Azure Computer Vision used in this project, please refer to the official Microsoft Learn documentation:
+
+- [Microsoft Learn Documentation](https://bit.ly/computervisionbackgroundremoval)
+- [Create computer vision solutions with Azure Cognitive Services](https://bit.ly/computervisionsolutionswithAzure)
 
 ## License
 
